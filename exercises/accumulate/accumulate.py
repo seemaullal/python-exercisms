@@ -1,0 +1,2 @@
+
+def accumulate(seq, op):
